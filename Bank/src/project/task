@@ -1,0 +1,20 @@
+Task 1: 
+
+1) Please go to AccountInfo class and create four private variable: String name,
+String lastName, Integer balance, String city.
+
+2) Create getters and setters methods for all private variables.
+
+3) Initialize variables with constructor parameters: 
+String name, String lastName, Integer balance, String city.
+
+4) In toString() method return Class variables as String, like below:
+name lastName,balance,city
+(Sarah Mclain,1000,chicago)
+(same as this format)
+
+5) Run test class and make sure testTask1() method is passed, if it is passed Task 1 is Completed
+
+Task 2:
+
+Go to BankAccount class and implement all methods
